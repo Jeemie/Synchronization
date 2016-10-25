@@ -1,0 +1,190 @@
+The plane ID: 6 arrived at the time: 7. The level of fuel is: 70
+The plane ID: 7 arrived at the time: 10. The level of fuel is: 104
+The plane ID: 8 arrived at the time: 9. The level of fuel is: 90
+The plane ID: 9 arrived at the time: 7. The level of fuel is: 10
+The plane ID: 10 arrived at the time: 6. The level of fuel is: 105
+The plane ID: 5 arrived at the time: 7. The level of fuel is: 55
+The plane ID: 11 arrived at the time: 10. The level of fuel is: 103
+The plane ID: 12 arrived at the time: 6. The level of fuel is: 10
+The plane ID: 13 arrived at the time: 7. The level of fuel is: 74
+The plane ID: 14 arrived at the time: 5. The level of fuel is: 73
+The plane ID: 15 arrived at the time: 4. The level of fuel is: 72
+The plane ID: 16 arrived at the time: 12. The level of fuel is: 91
+The plane ID: 17 arrived at the time: 4. The level of fuel is: 25
+The plane ID: 4 arrived at the time: 6. The level of fuel is: 27
+The plane ID: 18 arrived at the time: 5. The level of fuel is: 102
+The plane ID: 19 arrived at the time: 6. The level of fuel is: 65
+The plane ID: 20 arrived at the time: 11. The level of fuel is: 97
+The plane ID: 21 arrived at the time: 6. The level of fuel is: 81
+The plane ID: 3 arrived at the time: 5. The level of fuel is: 36
+The plane ID: 22 arrived at the time: 5. The level of fuel is: 35
+The plane ID: 23 arrived at the time: 11. The level of fuel is: 109
+The plane ID: 24 arrived at the time: 5. The level of fuel is: 39
+The plane ID: 2 arrived at the time: 11. The level of fuel is: 12
+The plane ID: 1 arrived at the time: 5. The level of fuel is: 95
+The plane ID: 0 arrived at the time: 3. The level of fuel is: 85
+
+Plane 1 fuel is: 94
+ Plane: 7 wants to land and has 104 fuel left..
+Plane: 7 is trying to land.
+
+ Plane: 8 wants to land and has 90 fuel left..
+ Plane: 9 wants to land and has 10 fuel left..
+ Plane: 10 wants to land and has 105 fuel left..
+ Plane: 6 wants to land and has 70 fuel left..
+Plane: 6 is trying to land.
+
+ Plane: 5 wants to land and has 55 fuel left..
+Plane: 5 is trying to land.
+
+ Plane: 11 wants to land and has 103 fuel left..
+ Plane: 12 wants to land and has 10 fuel left..
+ Plane: 13 wants to land and has 74 fuel left..
+ Plane: 14 wants to land and has 73 fuel left..
+ Plane: 15 wants to land and has 72 fuel left..
+ Plane: 16 wants to land and has 91 fuel left..
+ Plane: 17 wants to land and has 25 fuel left..
+ Plane: 4 wants to land and has 27 fuel left..
+ Plane: 18 wants to land and has 102 fuel left..
+ Plane: 19 wants to land and has 65 fuel left..
+ Plane: 20 wants to land and has 97 fuel left..
+ Plane: 21 wants to land and has 81 fuel left..
+ Plane: 3 wants to land and has 36 fuel left..
+ Plane: 22 wants to land and has 35 fuel left..
+ Plane: 23 wants to land and has 109 fuel left..
+ Plane: 24 wants to land and has 39 fuel left..
+ Plane: 2 wants to land and has 12 fuel left..
+ Plane: 1 wants to land and has 94 fuel left..
+ Plane: 0 wants to land and has 85 fuel left..
+
+Plane 2 fuel is: 11
+
+Plane 3 fuel is: 35
+Plane: 7 just parked.
+
+Plane: 5 just parked.
+
+Plane: 6 just parked.
+
+Plane: 8 has equipment failure and is trying to land.
+
+Plane 4 fuel is: 26
+Plane: 8 just parked.
+
+Emergency reset..
+
+Plane: 9 has equipment failure and is trying to land.
+Plane: 9 just parked.
+
+Emergency reset..
+
+Plane: 10 has equipment failure and is trying to land.
+Plane: 10 just parked.
+
+Emergency reset..
+
+Plane: 15 has equipment failure and is trying to land.
+Plane: 15 just parked.
+
+Emergency reset..
+
+Plane: 20 has equipment failure and is trying to land.
+Plane: 20 just parked.
+
+Emergency reset..
+
+Plane: 3 has equipment failure and is trying to land.
+Plane: 3 just parked.
+
+Emergency reset..
+
+Plane: 22 has equipment failure and is trying to land.
+Plane: 22 just parked.
+
+Emergency reset..
+
+Plane: 23 has equipment failure and is trying to land.
+Plane: 23 just parked.
+
+Emergency reset..
+
+Plane: 1 is trying to land.
+
+
+Plane 11 fuel is: 102
+
+Plane 12 fuel is: 9
+Plane: 1 just parked.
+
+Plane: 13 is trying to land.
+
+
+Plane 13 fuel is: 73
+
+Plane 14 fuel is: 72
+Plane: 13 just parked.
+
+Plane: 14 is trying to land.
+
+
+Plane 16 fuel is: 90
+
+Plane 17 fuel is: 24
+
+Plane 18 fuel is: 101
+Plane: 14 just parked.
+
+Plane: 16 is trying to land.
+
+
+Plane 19 fuel is: 64
+Plane: 16 just parked.
+
+Plane: 0 is trying to land.
+
+
+Plane 21 fuel is: 80
+Plane: 0 just parked.
+
+Plane: 24 is trying to land.
+
+Plane: 24 just parked.
+
+Plane: 12 is trying to land.
+
+Plane: 12 just parked.
+
+Plane: 11 is trying to land.
+
+
+Plane 2 fuel is: 10
+Plane: 11 just parked.
+
+Plane: 19 is trying to land.
+
+
+Plane 4 fuel is: 25
+Plane: 19 just parked.
+
+Plane: 21 is trying to land.
+
+Plane: 21 just parked.
+
+Plane: 4 is trying to land.
+
+Plane: 4 just parked.
+
+Plane: 2 is trying to land.
+
+Plane: 2 just parked.
+
+Plane: 18 is trying to land.
+
+Plane: 18 just parked.
+
+Plane: 17 is trying to land.
+
+Plane: 17 just parked.
+
+Every plane landed!
+

@@ -1,0 +1,17 @@
+Problem Explanation Document
+
+
+Partners: Matthew Jackman, Jimmy Tran, Connor Smith
+
+Project: Airport Runways
+
+Questions:	
+1. How can you ensure fairness? How is fairness affected by the amount of remaining fuel in each plane?
+
+	Fairness is insured through the fact that the amount of fuel given to each plane is randomized and that each plane has enough fuel such it will not immediately start out in the danger zone but will move there quickly if forced to delay its landing long enough. Also, every plane has the same chances of having a mechanical issue and needing to make an emergency landing. Because every plane has a randomized number,  So instead of crashing immediately of a low number is received, every plane has at least some chance of getting to land safely. Planes that hit the danger zone for low fuel will trigger a warning that allows them to be the next in line to land. 
+
+
+2. What needs to happen when a plane with an emergency landing arrives? Is it ever possible for an emergency landing to cause another plane to run out of fuel? Are there other scenarios in which plane crashes can occur?
+
+
+	When a plane first declares that it needs to emergency land is that its status gets updated to that of emergency and is given priority for accessing the runways. All runways are locked down and the plane lands by itself. Yes it is possible. There is always the chance that several planes come in all with the need to emergency land. If this should happen, there is no ideal situation. A plane will inevitably crash. In real life there is always the chance that too many planes will come and try to land, during this time there will countably be a plane which will need to make an emergency landing. When this happens planes could get low on fuel and crash if left waiting too long. If too many planes have emergency landing activated, a normal plane could possibly run out of fuel and crash.
